@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido utilizando a biblioteca p5.js para criar um jogo interativo, ondeo jogador assume o papel de um jardineiro responsável por plantar arvores e controlar a temperatura do ambiente.
